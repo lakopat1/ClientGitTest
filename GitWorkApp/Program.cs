@@ -11,6 +11,13 @@ namespace GitWorkApp
         static void Main(string[] args)
         {
             Console.WriteLine("Hello world!");
+            //
+            int a = Convert.ToInt32(Console.ReadLine());
+
+            for (int i = 0; i < a; i++)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
