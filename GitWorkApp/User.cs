@@ -20,5 +20,12 @@ namespace GitWorkApp
         {
             return Name;
         }
+
+        public void Ask (string name)
+        {
+            Console.WriteLine($"{name} - это твое имя такое пидорское"); 
+        }
+
+
     }
 }
