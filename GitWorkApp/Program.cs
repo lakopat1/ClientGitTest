@@ -22,6 +22,8 @@ namespace GitWorkApp
             }
 
             Console.WriteLine( count );
+
+            //тест нашего феч
         }
     }
 }
