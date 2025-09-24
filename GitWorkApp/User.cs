@@ -26,6 +26,7 @@ namespace GitWorkApp
             Console.WriteLine($"{name} - это твое имя такое пидорское"); 
         }
 
-
+        //task 11
+        //Я сделал task
     }
 }
