@@ -15,5 +15,6 @@ public class Profile
         Author = author;
     }
 
-    //Выполнил таск 1
+
+    //Выполнил таск 1,2
 }
